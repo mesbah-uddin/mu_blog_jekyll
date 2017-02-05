@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Mesbah Uddin</title>
+ <link href="http://mesbahuddin.org/atom.xml" rel="self"/>
+ <link href="http://mesbahuddin.org"/>
+ <updated>2017-02-05T16:49:08+09:00</updated>
+ <id>http://mesbahuddin.org/atom.xml</id>
+ <author>
+   <name>Mesbah Uddin</name>
+   <uri>http://mesbahuddin.org</uri>
+ </author>
+ 
+ 
+ <entry>
+   <title>Setting up Jekyll Blog pretty quickly</title>
+   <link href="http://mesbahuddin.org/2017/02/05/setting-up-jekyll-blog-pretty-quickly.html"/>
+   <published>2017-02-05T00:00:00+09:00</published>
+   <updated>2017-02-05T12:00:00-16:00</updated>
+   <id>http://mesbahuddin.org/2017/02/05/setting-up-jekyll-blog-pretty-quickly</id>
+   <content type="html">&lt;p&gt;Good documetation to start is already &lt;a href=&quot;http://willkoehler.net/&quot;&gt;here&lt;/a&gt;. Saved my days. Was actually pretty fun.&lt;/p&gt;
+
+&lt;!-- styles to demo source-code highlighting before fixes --&gt;
+&lt;style&gt;
+  .before_syntax_fixes .highlight .lineno {
+    color: #000;
+    display: inline;
+    padding: none;
+    border: none
+  }
+  .before_syntax_fixes .highlight pre code {
+    font-family: monospace, monospace;
+    white-space: pre-wrap;
+  }
+&lt;/style&gt;
+
+</content>
+ </entry>
+ 
+ 
+</feed>
